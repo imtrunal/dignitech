@@ -1,0 +1,10 @@
+{
+    "devlopment":{
+        "database":"Sequelize",
+        "username":"root",
+        "root":"localhost",
+        "password":"",
+        "dialect":"mysql",
+        "seedStorage":"sequelize"
+    }
+}
